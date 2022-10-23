@@ -1,0 +1,194 @@
+$date
+	Sat Oct 22 19:53:48 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#860156
+b10110 !
+1"
+#860158
+b10110 &
+b10110 %
+1$
+#860159
+0"
+#860162
+b1011 &
+b1011 %
+#860166
+b100010 &
+b100010 %
+#860170
+b10001 &
+b10001 %
+#860174
+b110100 &
+b110100 %
+#860178
+b11010 &
+b11010 %
+#860182
+b1101 &
+b1101 %
+#860186
+b101000 &
+b101000 %
+#860190
+b10100 &
+b10100 %
+#860194
+b1010 &
+b1010 %
+#860198
+b101 &
+b101 %
+#860202
+b10000 &
+b10000 %
+#860206
+b1000 &
+b1000 %
+#860210
+b100 &
+b100 %
+#860214
+b10 &
+b10 %
+#860218
+b1 &
+b1 %
+1#
+#860222
+b0 &
+0#
+b0 %
+0$
+#1845743
+b1100 !
+1"
+#1845746
+b1100 &
+b1100 %
+1$
+#1845747
+0"
+#1845750
+b110 &
+b110 %
+#1845754
+b11 &
+b11 %
+#1845758
+b1010 &
+b1010 %
+#1845762
+b101 &
+b101 %
+#1845766
+b10000 &
+b10000 %
+#1845770
+b1000 &
+b1000 %
+#1845774
+b100 &
+b100 %
+#1845778
+b10 &
+b10 %
+#1845782
+b1 &
+1#
+b1 %
+#1845786
+b0 &
+b0 %
+0#
+0$
+#2926067
+b10101 !
+1"
+#2926070
+b10101 &
+b10101 %
+1$
+#2926071
+0"
+#2926074
+b1000000 &
+b1000000 %
+#2926078
+b100000 &
+b100000 %
+#2926082
+b10000 &
+b10000 %
+#2926086
+b1000 &
+b1000 %
+#2926090
+b100 &
+b100 %
+#2926094
+b10 &
+b10 %
+#2926098
+b1 &
+b1 %
+1#
+#2926102
+b0 &
+0#
+b0 %
+0$
+#4500012

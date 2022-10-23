@@ -1,0 +1,196 @@
+$date
+	Sun Oct 23 01:08:58 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#775087
+b1100 !
+1"
+#775090
+b1100 &
+b1100 %
+1$
+#775091
+0"
+#775094
+b110 &
+b110 %
+#775098
+b11 &
+b11 %
+#775102
+b1010 &
+b1010 %
+#775106
+b101 &
+b101 %
+#775110
+b10000 &
+b10000 %
+#775114
+b1000 &
+b1000 %
+#775118
+b100 &
+b100 %
+#775122
+b10 &
+b10 %
+#775126
+b1 &
+1#
+b1 %
+#775130
+b0 &
+b0 %
+0#
+0$
+#1785135
+b10011 !
+1"
+#1785138
+b10011 &
+b10011 %
+1$
+#1785139
+0"
+#1785142
+b111010 &
+b111010 %
+#1785146
+b11101 &
+b11101 %
+#1785150
+b1011000 &
+b1011000 %
+#1785154
+b101100 &
+b101100 %
+#1785158
+b10110 &
+b10110 %
+#1785162
+b1011 &
+b1011 %
+#1785166
+b100010 &
+b100010 %
+#1785170
+b10001 &
+b10001 %
+#1785174
+b110100 &
+b110100 %
+#1785178
+b11010 &
+b11010 %
+#1785182
+b1101 &
+b1101 %
+#1785186
+b101000 &
+b101000 %
+#1785190
+b10100 &
+b10100 %
+#1785194
+b1010 &
+b1010 %
+#1785198
+b101 &
+b101 %
+#1785202
+b10000 &
+b10000 %
+#1785206
+b1000 &
+b1000 %
+#1785210
+b100 &
+b100 %
+#1785214
+b10 &
+b10 %
+#1785218
+b1 &
+b1 %
+1#
+#1785222
+b0 &
+0#
+b0 %
+0$
+#2770206
+b1000 &
+b1000 %
+1$
+b1000 !
+1"
+#2770207
+0"
+#2770210
+b100 &
+b100 %
+#2770214
+b10 &
+b10 %
+#2770218
+b1 &
+b1 %
+1#
+#2770222
+b0 &
+0#
+b0 %
+0$
+#4500012

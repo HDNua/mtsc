@@ -1,0 +1,206 @@
+$date
+	Sat Oct 22 21:58:30 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#758692
+b11110 !
+1"
+#758694
+b11110 &
+b11110 %
+1$
+#758695
+0"
+#758698
+b1111 &
+b1111 %
+#758702
+b101110 &
+b101110 %
+#758706
+b10111 &
+b10111 %
+#758710
+b1000110 &
+b1000110 %
+#758714
+b100011 &
+b100011 %
+#758718
+b1101010 &
+b1101010 %
+#758722
+b110101 &
+b110101 %
+#758726
+b10100000 &
+b10100000 %
+#758730
+b1010000 &
+b1010000 %
+#758734
+b101000 &
+b101000 %
+#758738
+b10100 &
+b10100 %
+#758742
+b1010 &
+b1010 %
+#758746
+b101 &
+b101 %
+#758750
+b10000 &
+b10000 %
+#758754
+b1000 &
+b1000 %
+#758758
+b100 &
+b100 %
+#758762
+b10 &
+b10 %
+#758766
+b1 &
+1#
+b1 %
+#758770
+b0 &
+b0 %
+0#
+0$
+#1753019
+b11000 !
+1"
+#1753022
+b11000 &
+b11000 %
+1$
+#1753023
+0"
+#1753026
+b1100 &
+b1100 %
+#1753030
+b110 &
+b110 %
+#1753034
+b11 &
+b11 %
+#1753038
+b1010 &
+b1010 %
+#1753042
+b101 &
+b101 %
+#1753046
+b10000 &
+b10000 %
+#1753050
+b1000 &
+b1000 %
+#1753054
+b100 &
+b100 %
+#1753058
+b10 &
+b10 %
+#1753062
+b1 &
+1#
+b1 %
+#1753066
+b0 &
+b0 %
+0#
+0$
+#2704817
+b11 !
+1"
+#2704818
+b11 &
+b11 %
+1$
+#2704819
+0"
+#2704822
+b1010 &
+b1010 %
+#2704826
+b101 &
+b101 %
+#2704830
+b10000 &
+b10000 %
+#2704834
+b1000 &
+b1000 %
+#2704838
+b100 &
+b100 %
+#2704842
+b10 &
+b10 %
+#2704846
+b1 &
+1#
+b1 %
+#2704850
+b0 &
+b0 %
+0#
+0$
+#4500012

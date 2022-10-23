@@ -1,0 +1,193 @@
+$date
+	Sun Oct 23 06:04:48 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#860895
+b10001 !
+1"
+#860898
+b10001 &
+b10001 %
+1$
+#860899
+0"
+#860902
+b110100 &
+b110100 %
+#860906
+b11010 &
+b11010 %
+#860910
+b1101 &
+b1101 %
+#860914
+b101000 &
+b101000 %
+#860918
+b10100 &
+b10100 %
+#860922
+b1010 &
+b1010 %
+#860926
+b101 &
+b101 %
+#860930
+b10000 &
+b10000 %
+#860934
+b1000 &
+b1000 %
+#860938
+b100 &
+b100 %
+#860942
+b10 &
+b10 %
+#860946
+b1 &
+b1 %
+1#
+#860950
+b0 &
+0#
+b0 %
+0$
+#1859050
+b10 &
+b10 %
+1$
+b10 !
+1"
+#1859051
+0"
+#1859054
+b1 &
+1#
+b1 %
+#1859058
+b0 &
+b0 %
+0#
+0$
+#2800489
+b11110 !
+1"
+#2800490
+b11110 &
+b11110 %
+1$
+#2800491
+0"
+#2800494
+b1111 &
+b1111 %
+#2800498
+b101110 &
+b101110 %
+#2800502
+b10111 &
+b10111 %
+#2800506
+b1000110 &
+b1000110 %
+#2800510
+b100011 &
+b100011 %
+#2800514
+b1101010 &
+b1101010 %
+#2800518
+b110101 &
+b110101 %
+#2800522
+b10100000 &
+b10100000 %
+#2800526
+b1010000 &
+b1010000 %
+#2800530
+b101000 &
+b101000 %
+#2800534
+b10100 &
+b10100 %
+#2800538
+b1010 &
+b1010 %
+#2800542
+b101 &
+b101 %
+#2800546
+b10000 &
+b10000 %
+#2800550
+b1000 &
+b1000 %
+#2800554
+b100 &
+b100 %
+#2800558
+b10 &
+b10 %
+#2800562
+b1 &
+b1 %
+1#
+#2800566
+b0 &
+0#
+b0 %
+0$
+#4500012

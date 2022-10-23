@@ -1,0 +1,185 @@
+$date
+	Sun Oct 23 06:23:27 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#608088
+b10100 !
+1"
+#608090
+b10100 &
+b10100 %
+1$
+#608091
+0"
+#608094
+b1010 &
+b1010 %
+#608098
+b101 &
+b101 %
+#608102
+b10000 &
+b10000 %
+#608106
+b1000 &
+b1000 %
+#608110
+b100 &
+b100 %
+#608114
+b10 &
+b10 %
+#608118
+b1 &
+1#
+b1 %
+#608122
+b0 &
+b0 %
+0#
+0$
+#1599961
+b10000 !
+1"
+#1599962
+b10000 &
+b10000 %
+1$
+#1599963
+0"
+#1599966
+b1000 &
+b1000 %
+#1599970
+b100 &
+b100 %
+#1599974
+b10 &
+b10 %
+#1599978
+b1 &
+b1 %
+1#
+#1599982
+b0 &
+0#
+b0 %
+0$
+#2605321
+b1110 !
+1"
+#2605322
+b1110 &
+b1110 %
+1$
+#2605323
+0"
+#2605326
+b111 &
+b111 %
+#2605330
+b10110 &
+b10110 %
+#2605334
+b1011 &
+b1011 %
+#2605338
+b100010 &
+b100010 %
+#2605342
+b10001 &
+b10001 %
+#2605346
+b110100 &
+b110100 %
+#2605350
+b11010 &
+b11010 %
+#2605354
+b1101 &
+b1101 %
+#2605358
+b101000 &
+b101000 %
+#2605362
+b10100 &
+b10100 %
+#2605366
+b1010 &
+b1010 %
+#2605370
+b101 &
+b101 %
+#2605374
+b10000 &
+b10000 %
+#2605378
+b1000 &
+b1000 %
+#2605382
+b100 &
+b100 %
+#2605386
+b10 &
+b10 %
+#2605390
+b1 &
+1#
+b1 %
+#2605394
+b0 &
+b0 %
+0#
+0$
+#4500012

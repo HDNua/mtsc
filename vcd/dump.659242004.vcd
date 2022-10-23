@@ -1,0 +1,185 @@
+$date
+	Sun Oct 23 00:02:55 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#767849
+b1010 !
+1"
+#767850
+b1010 &
+b1010 %
+1$
+#767851
+0"
+#767854
+b101 &
+b101 %
+#767858
+b10000 &
+b10000 %
+#767862
+b1000 &
+b1000 %
+#767866
+b100 &
+b100 %
+#767870
+b10 &
+b10 %
+#767874
+b1 &
+b1 %
+1#
+#767878
+b0 &
+0#
+b0 %
+0$
+#1706683
+b10010 !
+1"
+#1706686
+b10010 &
+b10010 %
+1$
+#1706687
+0"
+#1706690
+b1001 &
+b1001 %
+#1706694
+b11100 &
+b11100 %
+#1706698
+b1110 &
+b1110 %
+#1706702
+b111 &
+b111 %
+#1706706
+b10110 &
+b10110 %
+#1706710
+b1011 &
+b1011 %
+#1706714
+b100010 &
+b100010 %
+#1706718
+b10001 &
+b10001 %
+#1706722
+b110100 &
+b110100 %
+#1706726
+b11010 &
+b11010 %
+#1706730
+b1101 &
+b1101 %
+#1706734
+b101000 &
+b101000 %
+#1706738
+b10100 &
+b10100 %
+#1706742
+b1010 &
+b1010 %
+#1706746
+b101 &
+b101 %
+#1706750
+b10000 &
+b10000 %
+#1706754
+b1000 &
+b1000 %
+#1706758
+b100 &
+b100 %
+#1706762
+b10 &
+b10 %
+#1706766
+b1 &
+1#
+b1 %
+#1706770
+b0 &
+b0 %
+0#
+0$
+#2672555
+b100 !
+1"
+#2672558
+b100 &
+b100 %
+1$
+#2672559
+0"
+#2672562
+b10 &
+b10 %
+#2672566
+b1 &
+1#
+b1 %
+#2672570
+b0 &
+b0 %
+0#
+0$
+#4500012

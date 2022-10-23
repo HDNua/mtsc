@@ -1,0 +1,205 @@
+$date
+	Sun Oct 23 05:53:45 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#625334
+b111 &
+b111 %
+1$
+b111 !
+1"
+#625335
+0"
+#625338
+b10110 &
+b10110 %
+#625342
+b1011 &
+b1011 %
+#625346
+b100010 &
+b100010 %
+#625350
+b10001 &
+b10001 %
+#625354
+b110100 &
+b110100 %
+#625358
+b11010 &
+b11010 %
+#625362
+b1101 &
+b1101 %
+#625366
+b101000 &
+b101000 %
+#625370
+b10100 &
+b10100 %
+#625374
+b1010 &
+b1010 %
+#625378
+b101 &
+b101 %
+#625382
+b10000 &
+b10000 %
+#625386
+b1000 &
+b1000 %
+#625390
+b100 &
+b100 %
+#625394
+b10 &
+b10 %
+#625398
+b1 &
+1#
+b1 %
+#625402
+b0 &
+b0 %
+0#
+0$
+#1618652
+b10 !
+1"
+#1618654
+b10 &
+b10 %
+1$
+#1618655
+0"
+#1618658
+b1 &
+b1 %
+1#
+#1618662
+b0 &
+0#
+b0 %
+0$
+#2621011
+b11110 !
+1"
+#2621014
+b11110 &
+b11110 %
+1$
+#2621015
+0"
+#2621018
+b1111 &
+b1111 %
+#2621022
+b101110 &
+b101110 %
+#2621026
+b10111 &
+b10111 %
+#2621030
+b1000110 &
+b1000110 %
+#2621034
+b100011 &
+b100011 %
+#2621038
+b1101010 &
+b1101010 %
+#2621042
+b110101 &
+b110101 %
+#2621046
+b10100000 &
+b10100000 %
+#2621050
+b1010000 &
+b1010000 %
+#2621054
+b101000 &
+b101000 %
+#2621058
+b10100 &
+b10100 %
+#2621062
+b1010 &
+b1010 %
+#2621066
+b101 &
+b101 %
+#2621070
+b10000 &
+b10000 %
+#2621074
+b1000 &
+b1000 %
+#2621078
+b100 &
+b100 %
+#2621082
+b10 &
+b10 %
+#2621086
+b1 &
+1#
+b1 %
+#2621090
+b0 &
+b0 %
+0#
+0$
+#4500012

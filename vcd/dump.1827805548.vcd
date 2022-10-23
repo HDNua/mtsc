@@ -1,0 +1,187 @@
+$date
+	Sun Oct 23 06:00:13 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#738452
+b1001 !
+1"
+#738454
+b1001 &
+b1001 %
+1$
+#738455
+0"
+#738458
+b11100 &
+b11100 %
+#738462
+b1110 &
+b1110 %
+#738466
+b111 &
+b111 %
+#738470
+b10110 &
+b10110 %
+#738474
+b1011 &
+b1011 %
+#738478
+b100010 &
+b100010 %
+#738482
+b10001 &
+b10001 %
+#738486
+b110100 &
+b110100 %
+#738490
+b11010 &
+b11010 %
+#738494
+b1101 &
+b1101 %
+#738498
+b101000 &
+b101000 %
+#738502
+b10100 &
+b10100 %
+#738506
+b1010 &
+b1010 %
+#738510
+b101 &
+b101 %
+#738514
+b10000 &
+b10000 %
+#738518
+b1000 &
+b1000 %
+#738522
+b100 &
+b100 %
+#738526
+b10 &
+b10 %
+#738530
+b1 &
+b1 %
+1#
+#738534
+b0 &
+0#
+b0 %
+0$
+#1691790
+b1 &
+b1 %
+1$
+b1 !
+1"
+#1691791
+0"
+#1691794
+1#
+#1691798
+b0 &
+0#
+b0 %
+0$
+#2757946
+b11000 &
+b11000 %
+1$
+b11000 !
+1"
+#2757947
+0"
+#2757950
+b1100 &
+b1100 %
+#2757954
+b110 &
+b110 %
+#2757958
+b11 &
+b11 %
+#2757962
+b1010 &
+b1010 %
+#2757966
+b101 &
+b101 %
+#2757970
+b10000 &
+b10000 %
+#2757974
+b1000 &
+b1000 %
+#2757978
+b100 &
+b100 %
+#2757982
+b10 &
+b10 %
+#2757986
+b1 &
+b1 %
+1#
+#2757990
+b0 &
+0#
+b0 %
+0$
+#4500012

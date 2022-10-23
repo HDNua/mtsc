@@ -1,0 +1,205 @@
+$date
+	Sat Oct 22 22:47:10 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#946865
+b10111 !
+1"
+#946866
+b10111 &
+b10111 %
+1$
+#946867
+0"
+#946870
+b1000110 &
+b1000110 %
+#946874
+b100011 &
+b100011 %
+#946878
+b1101010 &
+b1101010 %
+#946882
+b110101 &
+b110101 %
+#946886
+b10100000 &
+b10100000 %
+#946890
+b1010000 &
+b1010000 %
+#946894
+b101000 &
+b101000 %
+#946898
+b10100 &
+b10100 %
+#946902
+b1010 &
+b1010 %
+#946906
+b101 &
+b101 %
+#946910
+b10000 &
+b10000 %
+#946914
+b1000 &
+b1000 %
+#946918
+b100 &
+b100 %
+#946922
+b10 &
+b10 %
+#946926
+b1 &
+1#
+b1 %
+#946930
+b0 &
+b0 %
+0#
+0$
+#1942010
+b11101 &
+b11101 %
+1$
+b11101 !
+1"
+#1942011
+0"
+#1942014
+b1011000 &
+b1011000 %
+#1942018
+b101100 &
+b101100 %
+#1942022
+b10110 &
+b10110 %
+#1942026
+b1011 &
+b1011 %
+#1942030
+b100010 &
+b100010 %
+#1942034
+b10001 &
+b10001 %
+#1942038
+b110100 &
+b110100 %
+#1942042
+b11010 &
+b11010 %
+#1942046
+b1101 &
+b1101 %
+#1942050
+b101000 &
+b101000 %
+#1942054
+b10100 &
+b10100 %
+#1942058
+b1010 &
+b1010 %
+#1942062
+b101 &
+b101 %
+#1942066
+b10000 &
+b10000 %
+#1942070
+b1000 &
+b1000 %
+#1942074
+b100 &
+b100 %
+#1942078
+b10 &
+b10 %
+#1942082
+b1 &
+b1 %
+1#
+#1942086
+b0 &
+0#
+b0 %
+0$
+#2962880
+b100 !
+1"
+#2962882
+b100 &
+b100 %
+1$
+#2962883
+0"
+#2962886
+b10 &
+b10 %
+#2962890
+b1 &
+b1 %
+1#
+#2962894
+b0 &
+0#
+b0 %
+0$
+#4500012

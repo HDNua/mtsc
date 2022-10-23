@@ -1,0 +1,185 @@
+$date
+	Sat Oct 22 22:00:02 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#223445
+b11110 !
+1"
+#223446
+b11110 &
+b11110 %
+1$
+#223447
+0"
+#223450
+b1111 &
+b1111 %
+#223454
+b101110 &
+b101110 %
+#223458
+b10111 &
+b10111 %
+#223462
+b1000110 &
+b1000110 %
+#223466
+b100011 &
+b100011 %
+#223470
+b1101010 &
+b1101010 %
+#223474
+b110101 &
+b110101 %
+#223478
+b10100000 &
+b10100000 %
+#223482
+b1010000 &
+b1010000 %
+#223486
+b101000 &
+b101000 %
+#223490
+b10100 &
+b10100 %
+#223494
+b1010 &
+b1010 %
+#223498
+b101 &
+b101 %
+#223502
+b10000 &
+b10000 %
+#223506
+b1000 &
+b1000 %
+#223510
+b100 &
+b100 %
+#223514
+b10 &
+b10 %
+#223518
+b1 &
+1#
+b1 %
+#223522
+b0 &
+b0 %
+0#
+0$
+#1288059
+b110 !
+1"
+#1288062
+b110 &
+b110 %
+1$
+#1288063
+0"
+#1288066
+b11 &
+b11 %
+#1288070
+b1010 &
+b1010 %
+#1288074
+b101 &
+b101 %
+#1288078
+b10000 &
+b10000 %
+#1288082
+b1000 &
+b1000 %
+#1288086
+b100 &
+b100 %
+#1288090
+b10 &
+b10 %
+#1288094
+b1 &
+1#
+b1 %
+#1288098
+b0 &
+b0 %
+0#
+0$
+#2288119
+b100 !
+1"
+#2288122
+b100 &
+b100 %
+1$
+#2288123
+0"
+#2288126
+b10 &
+b10 %
+#2288130
+b1 &
+b1 %
+1#
+#2288134
+b0 &
+0#
+b0 %
+0$
+#4500012

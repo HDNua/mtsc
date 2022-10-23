@@ -1,0 +1,187 @@
+$date
+	Sun Oct 23 08:09:51 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#449840
+b1011 !
+1"
+#449842
+b1011 &
+b1011 %
+1$
+#449843
+0"
+#449846
+b100010 &
+b100010 %
+#449850
+b10001 &
+b10001 %
+#449854
+b110100 &
+b110100 %
+#449858
+b11010 &
+b11010 %
+#449862
+b1101 &
+b1101 %
+#449866
+b101000 &
+b101000 %
+#449870
+b10100 &
+b10100 %
+#449874
+b1010 &
+b1010 %
+#449878
+b101 &
+b101 %
+#449882
+b10000 &
+b10000 %
+#449886
+b1000 &
+b1000 %
+#449890
+b100 &
+b100 %
+#449894
+b10 &
+b10 %
+#449898
+b1 &
+b1 %
+1#
+#449902
+b0 &
+0#
+b0 %
+0$
+#1455382
+b11000 &
+b11000 %
+1$
+b11000 !
+1"
+#1455383
+0"
+#1455386
+b1100 &
+b1100 %
+#1455390
+b110 &
+b110 %
+#1455394
+b11 &
+b11 %
+#1455398
+b1010 &
+b1010 %
+#1455402
+b101 &
+b101 %
+#1455406
+b10000 &
+b10000 %
+#1455410
+b1000 &
+b1000 %
+#1455414
+b100 &
+b100 %
+#1455418
+b10 &
+b10 %
+#1455422
+b1 &
+1#
+b1 %
+#1455426
+b0 &
+b0 %
+0#
+0$
+#2511159
+b101 !
+1"
+#2511162
+b101 &
+b101 %
+1$
+#2511163
+0"
+#2511166
+b10000 &
+b10000 %
+#2511170
+b1000 &
+b1000 %
+#2511174
+b100 &
+b100 %
+#2511178
+b10 &
+b10 %
+#2511182
+b1 &
+1#
+b1 %
+#2511186
+b0 &
+b0 %
+0#
+0$
+#4500012

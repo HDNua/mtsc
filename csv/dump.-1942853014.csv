@@ -1,0 +1,7 @@
+vid,var,0,10,438007,438010,438011,438014,438018,1405530,1405531,1405534,1405538,1405542,1405546,2425861,2425862,2425863,2425866,2425870,4500012
+!,testbench.rQueryData[31:0],bx,bx,b1,b1,b1,b1,b1,b1000,b1000,b1000,b1000,b1000,b1000,b1,b1,b1,b1,b1,b1
+"""",testbench.dut_if0.checker_start,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+#,testbench.dut_if0.checker_end,x,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+$,testbench.dut_if0.checker_run,x,0,0,1,1,1,0,1,1,1,1,1,0,0,1,1,1,0,0
+%,testbench.dut_if0.checker_rtl[31:0],bx,b0,b0,b1,b1,b1,b0,b1000,b1000,b100,b10,b1,b0,b0,b1,b1,b1,b0,b0
+&,testbench.dut_if0.checker_lls[31:0],bx,b0,b0,b1,b1,b1,b0,b1000,b1000,b100,b10,b1,b0,b0,b1,b1,b1,b0,b0

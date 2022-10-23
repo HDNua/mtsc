@@ -1,0 +1,185 @@
+$date
+	Sat Oct 22 20:01:23 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#335558
+b1111 &
+b1111 %
+1$
+b1111 !
+1"
+#335559
+0"
+#335562
+b101110 &
+b101110 %
+#335566
+b10111 &
+b10111 %
+#335570
+b1000110 &
+b1000110 %
+#335574
+b100011 &
+b100011 %
+#335578
+b1101010 &
+b1101010 %
+#335582
+b110101 &
+b110101 %
+#335586
+b10100000 &
+b10100000 %
+#335590
+b1010000 &
+b1010000 %
+#335594
+b101000 &
+b101000 %
+#335598
+b10100 &
+b10100 %
+#335602
+b1010 &
+b1010 %
+#335606
+b101 &
+b101 %
+#335610
+b10000 &
+b10000 %
+#335614
+b1000 &
+b1000 %
+#335618
+b100 &
+b100 %
+#335622
+b10 &
+b10 %
+#335626
+b1 &
+b1 %
+1#
+#335630
+b0 &
+0#
+b0 %
+0$
+#1289558
+b101 &
+b101 %
+1$
+b101 !
+1"
+#1289559
+0"
+#1289562
+b10000 &
+b10000 %
+#1289566
+b1000 &
+b1000 %
+#1289570
+b100 &
+b100 %
+#1289574
+b10 &
+b10 %
+#1289578
+b1 &
+b1 %
+1#
+#1289582
+b0 &
+0#
+b0 %
+0$
+#2293482
+b11 &
+b11 %
+1$
+b11 !
+1"
+#2293483
+0"
+#2293486
+b1010 &
+b1010 %
+#2293490
+b101 &
+b101 %
+#2293494
+b10000 &
+b10000 %
+#2293498
+b1000 &
+b1000 %
+#2293502
+b100 &
+b100 %
+#2293506
+b10 &
+b10 %
+#2293510
+b1 &
+1#
+b1 %
+#2293514
+b0 &
+b0 %
+0#
+0$
+#4500012

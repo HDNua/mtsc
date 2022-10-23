@@ -1,0 +1,226 @@
+$date
+	Sun Oct 23 08:15:54 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#123082
+b11010 &
+b11010 %
+1$
+b11010 !
+1"
+#123083
+0"
+#123086
+b1101 &
+b1101 %
+#123090
+b101000 &
+b101000 %
+#123094
+b10100 &
+b10100 %
+#123098
+b1010 &
+b1010 %
+#123102
+b101 &
+b101 %
+#123106
+b10000 &
+b10000 %
+#123110
+b1000 &
+b1000 %
+#123114
+b100 &
+b100 %
+#123118
+b10 &
+b10 %
+#123122
+b1 &
+b1 %
+1#
+#123126
+b0 &
+0#
+b0 %
+0$
+#1094009
+b1011 !
+1"
+#1094010
+b1011 &
+b1011 %
+1$
+#1094011
+0"
+#1094014
+b100010 &
+b100010 %
+#1094018
+b10001 &
+b10001 %
+#1094022
+b110100 &
+b110100 %
+#1094026
+b11010 &
+b11010 %
+#1094030
+b1101 &
+b1101 %
+#1094034
+b101000 &
+b101000 %
+#1094038
+b10100 &
+b10100 %
+#1094042
+b1010 &
+b1010 %
+#1094046
+b101 &
+b101 %
+#1094050
+b10000 &
+b10000 %
+#1094054
+b1000 &
+b1000 %
+#1094058
+b100 &
+b100 %
+#1094062
+b10 &
+b10 %
+#1094066
+b1 &
+b1 %
+1#
+#1094070
+b0 &
+0#
+b0 %
+0$
+#2103328
+b11100 !
+1"
+#2103330
+b11100 &
+b11100 %
+1$
+#2103331
+0"
+#2103334
+b1110 &
+b1110 %
+#2103338
+b111 &
+b111 %
+#2103342
+b10110 &
+b10110 %
+#2103346
+b1011 &
+b1011 %
+#2103350
+b100010 &
+b100010 %
+#2103354
+b10001 &
+b10001 %
+#2103358
+b110100 &
+b110100 %
+#2103362
+b11010 &
+b11010 %
+#2103366
+b1101 &
+b1101 %
+#2103370
+b101000 &
+b101000 %
+#2103374
+b10100 &
+b10100 %
+#2103378
+b1010 &
+b1010 %
+#2103382
+b101 &
+b101 %
+#2103386
+b10000 &
+b10000 %
+#2103390
+b1000 &
+b1000 %
+#2103394
+b100 &
+b100 %
+#2103398
+b10 &
+b10 %
+#2103402
+b1 &
+b1 %
+1#
+#2103406
+b0 &
+0#
+b0 %
+0$
+#4500012

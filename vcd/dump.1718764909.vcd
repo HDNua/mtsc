@@ -1,0 +1,188 @@
+$date
+	Sun Oct 23 09:25:13 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#507475
+b10 !
+1"
+#507478
+b10 &
+b10 %
+1$
+#507479
+0"
+#507482
+b1 &
+b1 %
+1#
+#507486
+b0 &
+0#
+b0 %
+0$
+#1502373
+b110 !
+1"
+#1502374
+b110 &
+b110 %
+1$
+#1502375
+0"
+#1502378
+b11 &
+b11 %
+#1502382
+b1010 &
+b1010 %
+#1502386
+b101 &
+b101 %
+#1502390
+b10000 &
+b10000 %
+#1502394
+b1000 &
+b1000 %
+#1502398
+b100 &
+b100 %
+#1502402
+b10 &
+b10 %
+#1502406
+b1 &
+1#
+b1 %
+#1502410
+b0 &
+b0 %
+0#
+0$
+#2509991
+b10011 !
+1"
+#2509994
+b10011 &
+b10011 %
+1$
+#2509995
+0"
+#2509998
+b111010 &
+b111010 %
+#2510002
+b11101 &
+b11101 %
+#2510006
+b1011000 &
+b1011000 %
+#2510010
+b101100 &
+b101100 %
+#2510014
+b10110 &
+b10110 %
+#2510018
+b1011 &
+b1011 %
+#2510022
+b100010 &
+b100010 %
+#2510026
+b10001 &
+b10001 %
+#2510030
+b110100 &
+b110100 %
+#2510034
+b11010 &
+b11010 %
+#2510038
+b1101 &
+b1101 %
+#2510042
+b101000 &
+b101000 %
+#2510046
+b10100 &
+b10100 %
+#2510050
+b1010 &
+b1010 %
+#2510054
+b101 &
+b101 %
+#2510058
+b10000 &
+b10000 %
+#2510062
+b1000 &
+b1000 %
+#2510066
+b100 &
+b100 %
+#2510070
+b10 &
+b10 %
+#2510074
+b1 &
+b1 %
+1#
+#2510078
+b0 &
+0#
+b0 %
+0$
+#4500012

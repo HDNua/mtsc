@@ -1,0 +1,185 @@
+$date
+	Sun Oct 23 00:47:09 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#744298
+b11010 &
+b11010 %
+1$
+b11010 !
+1"
+#744299
+0"
+#744302
+b1101 &
+b1101 %
+#744306
+b101000 &
+b101000 %
+#744310
+b10100 &
+b10100 %
+#744314
+b1010 &
+b1010 %
+#744318
+b101 &
+b101 %
+#744322
+b10000 &
+b10000 %
+#744326
+b1000 &
+b1000 %
+#744330
+b100 &
+b100 %
+#744334
+b10 &
+b10 %
+#744338
+b1 &
+b1 %
+1#
+#744342
+b0 &
+0#
+b0 %
+0$
+#1756003
+b1 !
+1"
+#1756006
+b1 &
+b1 %
+1$
+#1756007
+0"
+#1756010
+1#
+#1756014
+b0 &
+0#
+b0 %
+0$
+#2794832
+b11100 !
+1"
+#2794834
+b11100 &
+b11100 %
+1$
+#2794835
+0"
+#2794838
+b1110 &
+b1110 %
+#2794842
+b111 &
+b111 %
+#2794846
+b10110 &
+b10110 %
+#2794850
+b1011 &
+b1011 %
+#2794854
+b100010 &
+b100010 %
+#2794858
+b10001 &
+b10001 %
+#2794862
+b110100 &
+b110100 %
+#2794866
+b11010 &
+b11010 %
+#2794870
+b1101 &
+b1101 %
+#2794874
+b101000 &
+b101000 %
+#2794878
+b10100 &
+b10100 %
+#2794882
+b1010 &
+b1010 %
+#2794886
+b101 &
+b101 %
+#2794890
+b10000 &
+b10000 %
+#2794894
+b1000 &
+b1000 %
+#2794898
+b100 &
+b100 %
+#2794902
+b10 &
+b10 %
+#2794906
+b1 &
+b1 %
+1#
+#2794910
+b0 &
+0#
+b0 %
+0$
+#4500012

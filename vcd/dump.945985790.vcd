@@ -1,0 +1,206 @@
+$date
+	Sun Oct 23 03:51:43 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#107350
+b1001 &
+b1001 %
+1$
+b1001 !
+1"
+#107351
+0"
+#107354
+b11100 &
+b11100 %
+#107358
+b1110 &
+b1110 %
+#107362
+b111 &
+b111 %
+#107366
+b10110 &
+b10110 %
+#107370
+b1011 &
+b1011 %
+#107374
+b100010 &
+b100010 %
+#107378
+b10001 &
+b10001 %
+#107382
+b110100 &
+b110100 %
+#107386
+b11010 &
+b11010 %
+#107390
+b1101 &
+b1101 %
+#107394
+b101000 &
+b101000 %
+#107398
+b10100 &
+b10100 %
+#107402
+b1010 &
+b1010 %
+#107406
+b101 &
+b101 %
+#107410
+b10000 &
+b10000 %
+#107414
+b1000 &
+b1000 %
+#107418
+b100 &
+b100 %
+#107422
+b10 &
+b10 %
+#107426
+b1 &
+b1 %
+1#
+#107430
+b0 &
+0#
+b0 %
+0$
+#1046310
+b101 &
+b101 %
+1$
+b101 !
+1"
+#1046311
+0"
+#1046314
+b10000 &
+b10000 %
+#1046318
+b1000 &
+b1000 %
+#1046322
+b100 &
+b100 %
+#1046326
+b10 &
+b10 %
+#1046330
+b1 &
+b1 %
+1#
+#1046334
+b0 &
+0#
+b0 %
+0$
+#2110410
+b10001 &
+b10001 %
+1$
+b10001 !
+1"
+#2110411
+0"
+#2110414
+b110100 &
+b110100 %
+#2110418
+b11010 &
+b11010 %
+#2110422
+b1101 &
+b1101 %
+#2110426
+b101000 &
+b101000 %
+#2110430
+b10100 &
+b10100 %
+#2110434
+b1010 &
+b1010 %
+#2110438
+b101 &
+b101 %
+#2110442
+b10000 &
+b10000 %
+#2110446
+b1000 &
+b1000 %
+#2110450
+b100 &
+b100 %
+#2110454
+b10 &
+b10 %
+#2110458
+b1 &
+b1 %
+1#
+#2110462
+b0 &
+0#
+b0 %
+0$
+#4500012

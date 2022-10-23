@@ -1,0 +1,161 @@
+$date
+	Sun Oct 23 07:48:25 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#403233
+b11000 !
+1"
+#403234
+b11000 &
+b11000 %
+1$
+#403235
+0"
+#403238
+b1100 &
+b1100 %
+#403242
+b110 &
+b110 %
+#403246
+b11 &
+b11 %
+#403250
+b1010 &
+b1010 %
+#403254
+b101 &
+b101 %
+#403258
+b10000 &
+b10000 %
+#403262
+b1000 &
+b1000 %
+#403266
+b100 &
+b100 %
+#403270
+b10 &
+b10 %
+#403274
+b1 &
+b1 %
+1#
+#403278
+b0 &
+0#
+b0 %
+0$
+#1322283
+b10 !
+1"
+#1322286
+b10 &
+b10 %
+1$
+#1322287
+0"
+#1322290
+b1 &
+b1 %
+1#
+#1322294
+b0 &
+0#
+b0 %
+0$
+#2406075
+b1100 !
+1"
+#2406078
+b1100 &
+b1100 %
+1$
+#2406079
+0"
+#2406082
+b110 &
+b110 %
+#2406086
+b11 &
+b11 %
+#2406090
+b1010 &
+b1010 %
+#2406094
+b101 &
+b101 %
+#2406098
+b10000 &
+b10000 %
+#2406102
+b1000 &
+b1000 %
+#2406106
+b100 &
+b100 %
+#2406110
+b10 &
+b10 %
+#2406114
+b1 &
+b1 %
+1#
+#2406118
+b0 &
+0#
+b0 %
+0$
+#4500012

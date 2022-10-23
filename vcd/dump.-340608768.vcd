@@ -1,0 +1,188 @@
+$date
+	Sun Oct 23 04:34:48 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var reg 32 ! rQueryData [31:0] $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 " checker_start $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 1 # checker_end $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 1 $ checker_run $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var wire 32 % checker_rtl [31:0] $end
+$upscope $end
+$upscope $end
+$scope module testbench $end
+$scope module dut_if0 $end
+$var reg 32 & checker_lls [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+bx %
+x$
+x#
+0"
+bx !
+$end
+#10
+b0 &
+b0 %
+0#
+0$
+#877478
+b11 &
+b11 %
+1$
+b11 !
+1"
+#877479
+0"
+#877482
+b1010 &
+b1010 %
+#877486
+b101 &
+b101 %
+#877490
+b10000 &
+b10000 %
+#877494
+b1000 &
+b1000 %
+#877498
+b100 &
+b100 %
+#877502
+b10 &
+b10 %
+#877506
+b1 &
+b1 %
+1#
+#877510
+b0 &
+0#
+b0 %
+0$
+#1907682
+b1011 &
+b1011 %
+1$
+b1011 !
+1"
+#1907683
+0"
+#1907686
+b100010 &
+b100010 %
+#1907690
+b10001 &
+b10001 %
+#1907694
+b110100 &
+b110100 %
+#1907698
+b11010 &
+b11010 %
+#1907702
+b1101 &
+b1101 %
+#1907706
+b101000 &
+b101000 %
+#1907710
+b10100 &
+b10100 %
+#1907714
+b1010 &
+b1010 %
+#1907718
+b101 &
+b101 %
+#1907722
+b10000 &
+b10000 %
+#1907726
+b1000 &
+b1000 %
+#1907730
+b100 &
+b100 %
+#1907734
+b10 &
+b10 %
+#1907738
+b1 &
+b1 %
+1#
+#1907742
+b0 &
+0#
+b0 %
+0$
+#2907034
+b1100 &
+b1100 %
+1$
+b1100 !
+1"
+#2907035
+0"
+#2907038
+b110 &
+b110 %
+#2907042
+b11 &
+b11 %
+#2907046
+b1010 &
+b1010 %
+#2907050
+b101 &
+b101 %
+#2907054
+b10000 &
+b10000 %
+#2907058
+b1000 &
+b1000 %
+#2907062
+b100 &
+b100 %
+#2907066
+b10 &
+b10 %
+#2907070
+b1 &
+1#
+b1 %
+#2907074
+b0 &
+b0 %
+0#
+0$
+#4500012
